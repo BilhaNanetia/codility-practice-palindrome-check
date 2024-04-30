@@ -12,7 +12,7 @@ Explanation: 121 reads as 121 from left to right and from right to left.
 Input: x = -121
 Output: false
 Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore, it is not a palindrome.
-## Function Implementation
+## Solution Overview
 The function `isPalindrome` takes an integer as input and returns a boolean value indicating whether the integer is a palindrome.
 ## Approach
 To determine if an integer is a palindrome:
@@ -24,7 +24,7 @@ To determine if an integer is a palindrome:
 ## Instructions
 * Fork this repository from Github
 * Clone this repository to your local machine
-* Open files in Visual studio code
+* Open files in Visual studio code to view the function implementation
 ## Contributions
 Pull requests are welcomed.
 ## Contacts
